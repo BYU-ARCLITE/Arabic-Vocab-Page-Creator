@@ -51,10 +51,14 @@ object ExcelReader {
       // Get the row
       val row = rows.next()
 
+      // Allow for missing category
+      val lastCell =
+        if (row.getPhysicalNumberOfCells < 4) "" else row.getCell(3).getStringCellValue
+
       // Save the cell values. Append this so as to
       stringEntries = stringEntries ::: List(
         (row.getCell(0).getStringCellValue, row.getCell(1).getStringCellValue, row.getCell(2).getStringCellValue,
-          row.getCell(3).getStringCellValue)
+          lastCell)
       )
     }
 
