@@ -1,6 +1,7 @@
 package edu.byu.arclite.arabVocab
 
 import mustache.Mustache
+import org.apache.commons.lang3.StringEscapeUtils
 
 /**
  * This holds the information concerning an entry within a category
@@ -21,7 +22,7 @@ case class Entry(arabic: String, english: String, url: String) {
       "english" -> english,
       "url" -> url
     )
-    Entry.mustache.render(data)
+    StringEscapeUtils.unescapeHtml4(Entry.mustache.render(data))
   }
 }
 

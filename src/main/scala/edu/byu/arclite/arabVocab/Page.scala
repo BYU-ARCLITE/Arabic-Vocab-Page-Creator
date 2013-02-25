@@ -1,6 +1,7 @@
 package edu.byu.arclite.arabVocab
 
 import mustache.Mustache
+import org.apache.commons.lang3.StringEscapeUtils
 
 /**
  * This holds the information concerning a vocab page
@@ -17,9 +18,9 @@ case class Page(name: String, categories: List[Category]) {
   def toHtml: String = {
     val data = Map(
       "name" -> name,
-      "categories" -> org.apache.commons.lang3.StringEscapeUtils.unescapeHtml4(categories.map(_.toHtml).mkString)
+      "categories" -> categories.map(_.toHtml).mkString
     )
-    org.apache.commons.lang3.StringEscapeUtils.unescapeHtml4(Page.mustache.render(data))
+    StringEscapeUtils.unescapeHtml4(Page.mustache.render(data))
   }
 }
 

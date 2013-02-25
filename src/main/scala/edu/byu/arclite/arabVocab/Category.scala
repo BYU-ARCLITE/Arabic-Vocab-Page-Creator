@@ -1,6 +1,7 @@
 package edu.byu.arclite.arabVocab
 
 import mustache.Mustache
+import org.apache.commons.lang3.StringEscapeUtils
 
 /**
  * This holds the information concerning a category within a page
@@ -19,7 +20,7 @@ case class Category(name: String, entries: List[Entry]) {
       "name" -> name,
       "entries" -> entries.map(_.toHtml).mkString
     )
-    Category.mustache.render(data)
+    StringEscapeUtils.unescapeHtml4(Category.mustache.render(data))
   }
 }
 
