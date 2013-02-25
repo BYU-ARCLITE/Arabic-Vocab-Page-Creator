@@ -1,0 +1,1920 @@
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] :: resolving dependencies :: arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.scala-lang#scala-library;2.9.2
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.2 {compile=[default(compile)]}
+[debug] sbt-chain: no namespace defined: using system
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.scala-lang\scala-library\ivy-2.9.2.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by sbt-chain): C:\Users\camman3d\.ivy2\cache\org.scala-lang\scala-library\ivy-2.9.2.xml
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.2
+[debug] sbt-chain: no latest strategy defined: using default
+[debug] local: no namespace defined: using system
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.scala-lang\scala-library\ivy-2.9.2.xml
+[debug] 	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by sbt-chain): C:\Users\camman3d\.ivy2\cache\org.scala-lang\scala-library\ivy-2.9.2.xml
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.9.2
+[debug] 	checking org.scala-lang#scala-library;2.9.2 from sbt-chain against [none]
+[debug] 	module revision kept as first found: org.scala-lang#scala-library;2.9.2 from sbt-chain
+[debug] 	found org.scala-lang#scala-library;2.9.2 in sbt-chain
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.apache.commons#commons-lang3;3.0
+[debug] sbt-chain: Checking cache for: dependency: org.apache.commons#commons-lang3;3.0 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.0.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.apache.commons#commons-lang3;3.0 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.0.xml
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.0
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.0.xml
+[debug] 	found ivy file in cache for org.apache.commons#commons-lang3;3.0 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.commons\commons-lang3\ivy-3.0.xml
+[debug] 	local: revision in cache: org.apache.commons#commons-lang3;3.0
+[debug] 	checking org.apache.commons#commons-lang3;3.0 from public against [none]
+[debug] 	module revision kept as first found: org.apache.commons#commons-lang3;3.0 from public
+[debug] 	found org.apache.commons#commons-lang3;3.0 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.apache.poi#poi;3.9
+[debug] sbt-chain: Checking cache for: dependency: org.apache.poi#poi;3.9 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi\ivy-3.9.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.apache.poi#poi;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi\ivy-3.9.xml
+[debug] sbt-chain: module revision found in cache: org.apache.poi#poi;3.9
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi\ivy-3.9.xml
+[debug] 	found ivy file in cache for org.apache.poi#poi;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi\ivy-3.9.xml
+[debug] 	local: revision in cache: org.apache.poi#poi;3.9
+[debug] 	checking org.apache.poi#poi;3.9 from public against [none]
+[debug] 	module revision kept as first found: org.apache.poi#poi;3.9 from public
+[debug] 	found org.apache.poi#poi;3.9 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile
+[debug] 	using sbt-chain to resolve commons-codec#commons-codec;1.5
+[debug] sbt-chain: Checking cache for: dependency: commons-codec#commons-codec;1.5 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\commons-codec\commons-codec\ivy-1.5.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for commons-codec#commons-codec;1.5 (resolved by public): C:\Users\camman3d\.ivy2\cache\commons-codec\commons-codec\ivy-1.5.xml
+[debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.5
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\commons-codec\commons-codec\ivy-1.5.xml
+[debug] 	found ivy file in cache for commons-codec#commons-codec;1.5 (resolved by public): C:\Users\camman3d\.ivy2\cache\commons-codec\commons-codec\ivy-1.5.xml
+[debug] 	local: revision in cache: commons-codec#commons-codec;1.5
+[debug] 	checking commons-codec#commons-codec;1.5 from public against [none]
+[debug] 	module revision kept as first found: commons-codec#commons-codec;1.5 from public
+[debug] 	found commons-codec#commons-codec;1.5 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.apache.poi#poi-ooxml;3.9
+[debug] sbt-chain: Checking cache for: dependency: org.apache.poi#poi-ooxml;3.9 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml\ivy-3.9.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.apache.poi#poi-ooxml;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml\ivy-3.9.xml
+[debug] sbt-chain: module revision found in cache: org.apache.poi#poi-ooxml;3.9
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml\ivy-3.9.xml
+[debug] 	found ivy file in cache for org.apache.poi#poi-ooxml;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml\ivy-3.9.xml
+[debug] 	local: revision in cache: org.apache.poi#poi-ooxml;3.9
+[debug] 	checking org.apache.poi#poi-ooxml;3.9 from public against [none]
+[debug] 	module revision kept as first found: org.apache.poi#poi-ooxml;3.9 from public
+[debug] 	found org.apache.poi#poi-ooxml;3.9 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.apache.poi#poi-ooxml-schemas;3.9
+[debug] sbt-chain: Checking cache for: dependency: org.apache.poi#poi-ooxml-schemas;3.9 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml-schemas\ivy-3.9.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.apache.poi#poi-ooxml-schemas;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml-schemas\ivy-3.9.xml
+[debug] sbt-chain: module revision found in cache: org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml-schemas\ivy-3.9.xml
+[debug] 	found ivy file in cache for org.apache.poi#poi-ooxml-schemas;3.9 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml-schemas\ivy-3.9.xml
+[debug] 	local: revision in cache: org.apache.poi#poi-ooxml-schemas;3.9
+[debug] 	checking org.apache.poi#poi-ooxml-schemas;3.9 from public against [none]
+[debug] 	module revision kept as first found: org.apache.poi#poi-ooxml-schemas;3.9 from public
+[debug] 	found org.apache.poi#poi-ooxml-schemas;3.9 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile
+[debug] 	using sbt-chain to resolve org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] sbt-chain: Checking cache for: dependency: org.apache.xmlbeans#xmlbeans;2.3.0 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.xmlbeans\xmlbeans\ivy-2.3.0.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for org.apache.xmlbeans#xmlbeans;2.3.0 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.xmlbeans\xmlbeans\ivy-2.3.0.xml
+[debug] sbt-chain: module revision found in cache: org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\org.apache.xmlbeans\xmlbeans\ivy-2.3.0.xml
+[debug] 	found ivy file in cache for org.apache.xmlbeans#xmlbeans;2.3.0 (resolved by public): C:\Users\camman3d\.ivy2\cache\org.apache.xmlbeans\xmlbeans\ivy-2.3.0.xml
+[debug] 	local: revision in cache: org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] 	checking org.apache.xmlbeans#xmlbeans;2.3.0 from public against [none]
+[debug] 	module revision kept as first found: org.apache.xmlbeans#xmlbeans;2.3.0 from public
+[debug] 	found org.apache.xmlbeans#xmlbeans;2.3.0 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile
+[debug] 	using sbt-chain to resolve stax#stax-api;1.0.1
+[debug] sbt-chain: Checking cache for: dependency: stax#stax-api;1.0.1 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\stax\stax-api\ivy-1.0.1.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for stax#stax-api;1.0.1 (resolved by public): C:\Users\camman3d\.ivy2\cache\stax\stax-api\ivy-1.0.1.xml
+[debug] sbt-chain: module revision found in cache: stax#stax-api;1.0.1
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\stax\stax-api\ivy-1.0.1.xml
+[debug] 	found ivy file in cache for stax#stax-api;1.0.1 (resolved by public): C:\Users\camman3d\.ivy2\cache\stax\stax-api\ivy-1.0.1.xml
+[debug] 	local: revision in cache: stax#stax-api;1.0.1
+[debug] 	checking stax#stax-api;1.0.1 from public against [none]
+[debug] 	module revision kept as first found: stax#stax-api;1.0.1 from public
+[debug] 	found stax#stax-api;1.0.1 in public
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=compile
+[debug] 	using sbt-chain to resolve dom4j#dom4j;1.6.1
+[debug] sbt-chain: Checking cache for: dependency: dom4j#dom4j;1.6.1 {compile=[default(compile)]}
+[debug] No entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] post 1.3 ivy file: using exact as default matcher
+[debug] 	found ivy file in cache for dom4j#dom4j;1.6.1 (resolved by sbt-chain): C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] sbt-chain: module revision found in cache: dom4j#dom4j;1.6.1
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] 	found ivy file in cache for dom4j#dom4j;1.6.1 (resolved by sbt-chain): C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] 	local: found revision in cache: dom4j#dom4j;1.6.1 (resolved by sbt-chain): but it's a default one, maybe we can find a better one
+[debug] 	 trying C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\ivys\ivy.xml
+[debug] 		tried C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\ivys\ivy.xml
+[debug] 	local: resource not reachable for dom4j#dom4j;1.6.1: res=C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\ivys\ivy.xml
+[debug] 	local: no ivy file found for dom4j#dom4j;1.6.1
+[debug] public: no namespace defined: using system
+[debug] Entry is found in the ModuleDescriptorCache : C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] 	found ivy file in cache for dom4j#dom4j;1.6.1 (resolved by sbt-chain): C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\ivy-1.6.1.xml
+[debug] 	public: found revision in cache: dom4j#dom4j;1.6.1 (resolved by sbt-chain): but it's a default one, maybe we can find a better one
+[debug] 	 trying http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+[debug] 		tried http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+[debug] 	checking dom4j#dom4j;1.6.1[default] from sbt-chain against [none]
+[debug] 	module revision kept as first found: dom4j#dom4j;1.6.1[default] from sbt-chain
+[debug] 	found dom4j#dom4j;1.6.1 in sbt-chain
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [runtime]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=runtime
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [runtime->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=runtime
+[debug] runtime is loaded and no conf to load.  Skip loading
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [test]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [runtime]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [runtime->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [test->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test
+[debug] test is loaded and no conf to load.  Skip loading
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [provided]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=provided
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [optional]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=optional
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile-internal]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=compile-internal
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=compile-internal
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [optional]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [provided]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile-internal->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile-internal->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile-internal->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile-internal->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile-internal->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile-internal->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile-internal->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile-internal->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile-internal->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile-internal->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile-internal->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile-internal->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile-internal->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile-internal->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile-internal->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile-internal->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile-internal->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile-internal->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile-internal->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile-internal->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile-internal->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile-internal->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile-internal->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile-internal->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=compile-internal
+[debug] compile-internal is loaded and no conf to load.  Skip loading
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [runtime-internal]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime-internal
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [runtime]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=runtime-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [runtime->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [optional]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime-internal->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime-internal->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime-internal->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime-internal->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime-internal->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime-internal->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime-internal->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime-internal->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime-internal->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime-internal->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime-internal->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime-internal->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime-internal->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime-internal->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime-internal->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime-internal->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime-internal->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime-internal->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime-internal->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime-internal->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime-internal->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime-internal->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime-internal->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [runtime-internal->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=runtime-internal
+[debug] runtime-internal is loaded and no conf to load.  Skip loading
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [test-internal]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [test]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [runtime]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [compile]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [compile->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [compile->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [compile->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [compile->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [compile->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [compile->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [compile->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test-internal
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [runtime->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [runtime->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [runtime->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [runtime->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [runtime->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [runtime->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [runtime->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [test->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [optional]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [provided]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test-internal->default(compile)]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test-internal->runtime]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test-internal->compile]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.scala-lang#scala-library;2.9.2 [test-internal->master]
+[debug] loadData of org.scala-lang#scala-library;2.9.2 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test-internal->default(compile)]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test-internal->runtime]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test-internal->compile]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.commons#commons-lang3;3.0 [test-internal->master]
+[debug] loadData of org.apache.commons#commons-lang3;3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test-internal->runtime]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test-internal->compile]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi;3.9 [test-internal->master]
+[debug] loadData of org.apache.poi#poi;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test-internal->default(compile)]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test-internal->runtime]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test-internal->compile]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->commons-codec#commons-codec;1.5 [test-internal->master]
+[debug] loadData of commons-codec#commons-codec;1.5 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml;3.9 [test-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test-internal->default(compile)]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test-internal->runtime]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test-internal->compile]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.poi#poi-ooxml-schemas;3.9 [test-internal->master]
+[debug] loadData of org.apache.poi#poi-ooxml-schemas;3.9 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test-internal->default(compile)]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test-internal->runtime]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test-internal->compile]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->org.apache.xmlbeans#xmlbeans;2.3.0 [test-internal->master]
+[debug] loadData of org.apache.xmlbeans#xmlbeans;2.3.0 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test-internal->default(compile)]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test-internal->runtime]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test-internal->compile]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->stax#stax-api;1.0.1 [test-internal->master]
+[debug] loadData of stax#stax-api;1.0.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] == resolving dependencies arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0->dom4j#dom4j;1.6.1 [test-internal->default(compile)]
+[debug] loadData of dom4j#dom4j;1.6.1 of rootConf=test-internal
+[debug] test-internal is loaded and no conf to load.  Skip loading
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [plugin]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=plugin
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [sources]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=sources
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [docs]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=docs
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 [pom]
+[debug] loadData of arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 of rootConf=pom
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	resolved ivy file produced in C:\Users\camman3d\.ivy2\cache\resolved-arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-1.0.xml
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.9.2!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.9.2!scala-library.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.0!commons-lang3.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.0!commons-lang3.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.poi#poi;3.9!poi.jar(src)
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.5!commons-codec.jar(src)
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.5!commons-codec.jar(doc)
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar
+[debug] 		to C:\Users\camman3d\.ivy2\cache\org.apache.poi\poi-ooxml\srcs\poi-ooxml-3.9-sources.jar.part
+[debug] sha1 file found for http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar: checking...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar.sha1
+[debug] 		to C:\Users\camman3d\AppData\Local\Temp\ivytmp7028618431902502981sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-sources.jar
+[info] 	[SUCCESSFUL ] org.apache.poi#poi-ooxml;3.9!poi-ooxml.jar(src) (666ms)
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[debug] 	public: resource not reachable for org/apache/poi#poi-ooxml;3.9: res=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[warn] 	[NOT FOUND  ] org.apache.poi#poi-ooxml;3.9!poi-ooxml.jar(doc) (170ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9-javadoc.jar
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[debug] 	public: resource not reachable for org/apache/poi#poi-ooxml-schemas;3.9: res=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[debug] 	public: resource not reachable for org/apache/poi#poi-ooxml-schemas;3.9: res=http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[warn] 	[NOT FOUND  ] org.apache.poi#poi-ooxml-schemas;3.9!poi-ooxml-schemas.jar(doc) (155ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+[warn] 	[NOT FOUND  ] org.apache.poi#poi-ooxml-schemas;3.9!poi-ooxml-schemas.jar(src) (182ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-sources.jar
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[debug] 	public: resource not reachable for org/apache/xmlbeans#xmlbeans;2.3.0: res=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[debug] 	 trying http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[debug] 	public: resource not reachable for org/apache/xmlbeans#xmlbeans;2.3.0: res=http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[warn] 	[NOT FOUND  ] org.apache.xmlbeans#xmlbeans;2.3.0!xmlbeans.jar(doc) (29ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+[warn] 	[NOT FOUND  ] org.apache.xmlbeans#xmlbeans;2.3.0!xmlbeans.jar(src) (29ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar
+[debug] 	 trying http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[debug] 	public: resource not reachable for stax#stax-api;1.0.1: res=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[debug] 	 trying http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[debug] 	public: resource not reachable for stax#stax-api;1.0.1: res=http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[warn] 	[NOT FOUND  ] stax#stax-api;1.0.1!stax-api.jar(doc) (29ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+[warn] 	[NOT FOUND  ] stax#stax-api;1.0.1!stax-api.jar(src) (53ms)
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+[debug] 	 trying C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\docs\dom4j-javadoc.jar
+[debug] 		tried C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\docs\dom4j-javadoc.jar
+[debug] 	local: resource not reachable for dom4j#dom4j;1.6.1: res=C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\docs\dom4j-javadoc.jar
+[debug] 	 trying C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\srcs\dom4j-sources.jar
+[debug] 		tried C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\srcs\dom4j-sources.jar
+[debug] 	local: resource not reachable for dom4j#dom4j;1.6.1: res=C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\srcs\dom4j-sources.jar
+[debug] 	 trying http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] 		tried http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] HTTP response status: 404 url=http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] CLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] 	public: resource not reachable for dom4j#dom4j;1.6.1: res=http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] 	 trying http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+[info] downloading http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+[debug] 		to C:\Users\camman3d\.ivy2\cache\dom4j\dom4j\srcs\dom4j-1.6.1-sources.jar.part
+[debug] sha1 file found for http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar: checking...
+[debug] 	public: downloading http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar.sha1
+[debug] 		to C:\Users\camman3d\AppData\Local\Temp\ivytmp3109252792089293420sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar
+[info] 	[SUCCESSFUL ] dom4j#dom4j;1.6.1!dom4j.jar(src) (470ms)
+[warn] 	[FAILED     ] dom4j#dom4j;1.6.1!dom4j.jar(doc):  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\camman3d\.ivy2\local\dom4j\dom4j\1.6.1\docs\dom4j-javadoc.jar
+[warn] ==== public: tried
+[warn]   http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar
+[debug] :: resolution report :: resolve 206ms :: artifacts dl 1844ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: org.apache.poi#poi-ooxml;3.9!poi-ooxml.jar(doc)
+[warn] 	:: org.apache.poi#poi-ooxml-schemas;3.9!poi-ooxml-schemas.jar(doc)
+[warn] 	:: org.apache.poi#poi-ooxml-schemas;3.9!poi-ooxml-schemas.jar(src)
+[warn] 	:: org.apache.xmlbeans#xmlbeans;2.3.0!xmlbeans.jar(doc)
+[warn] 	:: org.apache.xmlbeans#xmlbeans;2.3.0!xmlbeans.jar(src)
+[warn] 	:: stax#stax-api;1.0.1!stax-api.jar(doc)
+[warn] 	:: stax#stax-api;1.0.1!stax-api.jar(src)
+[warn] 	:: dom4j#dom4j;1.6.1!dom4j.jar(doc)
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 compile produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-compile.xml
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 runtime produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-runtime.xml
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 test produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-test.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 provided produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-provided.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 optional produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-optional.xml
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 compile-internal produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-compile-internal.xml
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 runtime-internal produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-runtime-internal.xml
+[debug] Nbr of module to sort : 9
+[debug] Sort dependencies of : org.scala-lang#scala-library;2.9.2 / Number of dependencies = 0
+[debug] Sort done for : org.scala-lang#scala-library;2.9.2
+[debug] Sort dependencies of : org.apache.commons#commons-lang3;3.0 / Number of dependencies = 2
+[debug] Sort done for : org.apache.commons#commons-lang3;3.0
+[debug] Sort dependencies of : org.apache.poi#poi;3.9 / Number of dependencies = 3
+[debug] Sort dependencies of : commons-codec#commons-codec;1.5 / Number of dependencies = 1
+[debug] Sort done for : commons-codec#commons-codec;1.5
+[debug] Sort done for : org.apache.poi#poi;3.9
+[debug] Module descriptor is processed : commons-codec#commons-codec;1.5
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml;3.9 / Number of dependencies = 3
+[debug] Module descriptor is processed : org.apache.poi#poi;3.9
+[debug] Sort dependencies of : org.apache.poi#poi-ooxml-schemas;3.9 / Number of dependencies = 1
+[debug] Sort dependencies of : org.apache.xmlbeans#xmlbeans;2.3.0 / Number of dependencies = 1
+[debug] Sort dependencies of : stax#stax-api;1.0.1 / Number of dependencies = 0
+[debug] Sort done for : stax#stax-api;1.0.1
+[debug] Sort done for : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Sort done for : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Sort dependencies of : dom4j#dom4j;1.6.1 / Number of dependencies = 0
+[debug] Sort done for : dom4j#dom4j;1.6.1
+[debug] Sort done for : org.apache.poi#poi-ooxml;3.9
+[debug] Module descriptor is processed : org.apache.poi#poi-ooxml-schemas;3.9
+[debug] Module descriptor is processed : org.apache.xmlbeans#xmlbeans;2.3.0
+[debug] Module descriptor is processed : stax#stax-api;1.0.1
+[debug] Module descriptor is processed : dom4j#dom4j;1.6.1
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 test-internal produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-test-internal.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 plugin produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-plugin.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 sources produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-sources.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 docs produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-docs.xml
+[debug] Nbr of module to sort : 0
+[debug] 	report for arabic-vocab-page-creator#arabic-vocab-page-creator$sources_javadoc_2.9.2;1.0 pom produced in C:\Users\camman3d\.ivy2\cache\arabic-vocab-page-creator-arabic-vocab-page-creator$sources_javadoc_2.9.2-pom.xml
+[debug] 	resolve done (206ms resolve - 1844ms download)
