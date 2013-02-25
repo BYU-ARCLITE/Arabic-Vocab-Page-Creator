@@ -42,6 +42,10 @@ object ExcelReader {
     // Read each row in as a product of strings
     var stringEntries = List[(String, String, String, String)]()
     val rows = sheet.rowIterator()
+
+    // The first cell of the first row is the page name
+    val pageName = rows.next().getCell(0).getStringCellValue
+
     while (rows.hasNext) {
 
       // Get the row
@@ -68,6 +72,6 @@ object ExcelReader {
       ).toList
 
     // Return the page, using the sheet name
-    Page(sheet.getSheetName, categories)
+    Page(pageName, categories)
   }
 }
